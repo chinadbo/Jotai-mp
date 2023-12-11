@@ -1,0 +1,14 @@
+{
+  "name": "jotail-mp",
+  "version": "0.0.1-beta",
+  "description": "State management in mini programs(such as wechat mini program.eg.) based on Jotail",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "repository": "https://github.com/chinadbo/Jotail-mp",
+  "author": "Ioodu <chinadbo@foxmail.com>",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/chinadbo/Jotail-mp/issues"
+  }
+}
